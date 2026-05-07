@@ -108,4 +108,4 @@ java MarksCard.Student
 Console output showing student results will appear.
 
 ---
-Name: H SHAMA JAIN
+**Name: H SHAMA JAIN**
